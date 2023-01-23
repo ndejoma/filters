@@ -1,0 +1,2 @@
+! block request to codesandbox domains
+||codesandbox.io^
